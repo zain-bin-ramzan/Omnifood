@@ -1,8 +1,8 @@
-# Omnifooed Platform
+# Omnifood Platform
 
 ## [Live Demo](https://food-site-portfolio.netlify.app/)
 
-Omnifooed is a web platform designed for selling and delivering a
+Omnifood is a web platform designed for selling and delivering a
 variety of delicious meals. With over 250,000 meals delivered last
 year, we are committed to providing a seamless and delightful
 experience for both customers and vendors.
